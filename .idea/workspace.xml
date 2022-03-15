@@ -4,13 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c385c5-0a5f-4654-bffb-27d7092eb613" name="Changes" comment="" />
+    <list default="true" id="74c385c5-0a5f-4654-bffb-27d7092eb613" name="Changes" comment="Stage 3/4: Score">
+      <change beforePath="$PROJECT_DIR$/Readability Score/Score/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Readability Score/Score/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readability Score/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Readability Score/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readability Score/task/test/ReadabilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Readability Score/task/test/ReadabilityTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="26Qt63I2jX2r0spjQh99gdLtCw7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,6 +35,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -30,10 +50,50 @@
       <option name="presentableId" value="Default" />
       <updated>1647367460294</updated>
       <workItem from="1647367463406" duration="339000" />
+      <workItem from="1647367824394" duration="1603000" />
     </task>
+    <task id="LOCAL-00001" summary="Stage 1/4: Simplest estimation">
+      <created>1647368305280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647368305280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Stage 2/4: Words and sentences">
+      <created>1647368737819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647368737819</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Stage 3/4: Score">
+      <created>1647369020034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647369020034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Stage 1/4: Simplest estimation" />
+    <MESSAGE value="Stage 2/4: Words and sentences" />
+    <MESSAGE value="Stage 3/4: Score" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stage 3/4: Score" />
   </component>
 </project>
